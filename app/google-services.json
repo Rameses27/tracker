@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993259048853",
+    "project_id": "tracker-9b5a5",
+    "storage_bucket": "tracker-9b5a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993259048853:android:b39ed0948cfae4fd9ff09c",
+        "android_client_info": {
+          "package_name": "com.aro.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjeWVlKWVExge4VHLfuwz2QvBqJLCqEKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
